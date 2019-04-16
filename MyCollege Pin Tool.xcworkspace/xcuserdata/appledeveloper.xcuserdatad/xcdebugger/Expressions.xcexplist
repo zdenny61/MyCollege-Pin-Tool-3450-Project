@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "PictureViewController.btnSubmit_Tap(_:):PictureViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "pictureKeys">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "UserFeedModel.downloadItems(passedUsername:passedPassword:):UserFeedModel.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "urlPath">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.addPin(_:):ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "UserManager.shared.CurrentUser.University_ID">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "PictureViewController.saveKeys():PictureViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "PictureManager.shared.currentSet">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in PictureViewController.btnSubmit_Tap(_:):PictureViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "pictureKeys">
+            </PersistentString>
+            <PersistentString
+               value = "uploadImageRef.name">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "DatabaseManager.SendPinData(passedPinName:passedPinDescriotion:passedUniversityID:passedPinLong:passedPinLat:passedPictureSet:):DatabaseManager.swift">
+      </ContextState>
+      <ContextState
+         contextName = "LoginViewController.viewDidLoad():LoginViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "UserDefaults.standard.string(forKey: Keys().SAVED_USERNAME">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in ViewController.addPin(_:):ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "PictureManager.shared.numOfUpload">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
